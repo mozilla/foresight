@@ -6,17 +6,6 @@ Our Mixed Reality program aims to create the premier agents for the immersive we
 
 Mixed reality - virtual, augmented, and extended - is taking us to the immersive web. The immersive web will always need to support 2D content as a first class citizen, not merely as legacy content. Perhaps not “big blocks of 2D” but the option to see that and the ability to mix “small blocks of 2D” with 3D .
 
-## Research Questions:
-1. What is the 3D Web? What does it look like?
-2. What does a possible future look like in which screens virtually disappear?
-3. What will it take for us to get to "normal" mixed reality experiences, in which the average consumer might participate?
-
-
-## Further Reading about Mixed Reality at Mozilla
-* [Introduction to Mixed Reality and VR at Mozilla](https://research.mozilla.org/mixed-reality/) - A blog covering Mozilla’s approach to mixed reality and VR.
-* [Mixed Reality for the Open Web at Mozilla](https://mixedreality.mozilla.org/) - Learn more about Mozilla’s mixed reality for the open web program and related projects like Firefox Reality, our VR browser.
-* [Hubs by Mozilla](https://hubs.mozilla.com/) - Try out Hubs, our online social VR environment for creators and users.
-
 ## Signals list
 * [Hubs LivingRoom](https://sites.google.com/ciid.dk/finalciidformozillamr)
 <br>One of six final experience concepts conceived by 12 students from Copenhagen Institute of Interaction Design over a two-week period, demonstrating the importance of shared space and experience in VR. 
@@ -25,8 +14,20 @@ Mixed reality - virtual, augmented, and extended - is taking us to the immersive
 * [Uturn](www.uturnvr.com)
 <br>Uturn is a cinematic virtual reality (CVR) film that a Stanford study in 2018 found to increase viewer’s sense of individual responsibility for advancing gender equality.
 
+## Research Questions:
+1. What is the 3D Web? What does it look like?
+2. What does a possible future look like in which screens virtually disappear?
+3. What will it take for us to get to "normal" mixed reality experiences, in which the average consumer might participate?
 
-## Have ideas about the future of mixed reality, our research questions, or any of the above? Reach out to us!
+## More about Mixed Reality at Mozilla
+* [Introduction to Mixed Reality and VR at Mozilla](https://research.mozilla.org/mixed-reality/) - A blog covering Mozilla’s approach to mixed reality and VR.
+* [Mixed Reality for the Open Web at Mozilla](https://mixedreality.mozilla.org/) - Learn more about Mozilla’s mixed reality for the open web program and related projects like Firefox Reality, our VR browser.
+* [Hubs by Mozilla](https://hubs.mozilla.com/) - Try out Hubs, our online social VR environment for creators and users.
+
+
+
+
+## Have thoughts, questions, concerns about the future of mixed reality? Reach out to us!
 
 
 
