@@ -1,6 +1,5 @@
 # Mixed Reality
 
-## What it is from a strategic foresight perspective
 Mixed reality includes virtual, augmented, and extended reality technologies by which users may experience embodiment, immersion, multi or full sensory experience, and avatar interaction. In particular, our augmented reality tech is focused on head-mount and hand-set approaches, and both augmented and virtual reality includes goals to integrate with browsing and social experiences.
 
 Our Mixed Reality program aims to create the premier agents for the immersive web. This year is projected to see millions of VR headsets in consumers’ homes in monthly active usage; billions of mobile phones  capable of experiencing AR content from museums, advertisers, and educators; and all major industries transitioning from pilot programs to early rollouts of standalone AR headsets. Mozilla is positioned to build on its industry-leading position as the driver of the Web on these devices to build out our relationships with users and enterprises.  We see a long-term opportunity to guide the way WebXR is built, in collaboration with users and creators.
