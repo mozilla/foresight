@@ -6,7 +6,7 @@ Our Mixed Reality program aims to create the premier agents for the immersive we
 
 Mixed reality - virtual, augmented, and extended - is taking us to the immersive web. The immersive web will always need to support 2D content as a first class citizen, not merely as legacy content. Perhaps not “big blocks of 2D” but the option to see that and the ability to mix “small blocks of 2D” with 3D .
 
-## Signals list
+## Signals of the Future
 * [Hubs LivingRoom](https://sites.google.com/ciid.dk/finalciidformozillamr)
 <br>One of six final experience concepts conceived by 12 students from Copenhagen Institute of Interaction Design over a two-week period, demonstrating the importance of shared space and experience in VR. 
 * [3D Audio](https://spectrum.ieee.org/consumer-electronics/audiovideo/vr-for-your-ears-dynamic-3d-audio-is-coming-soon)
