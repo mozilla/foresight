@@ -27,7 +27,7 @@ Mixed reality - virtual, augmented, and extended - is taking us to the immersive
 
 
 
-## Have thoughts, questions, concerns about the future of mixed reality? Reach out to us!
+### Have thoughts, questions, concerns about the future of mixed reality? Reach out to us!
 
 
 
