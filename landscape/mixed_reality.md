@@ -28,5 +28,6 @@ Mixed reality - virtual, augmented, and extended - is taking us to the immersive
 * [Uturn](www.uturnvr.com)
 <br>Uturn is a cinematic virtual reality (CVR) film that a Stanford study in 2018 found to increase viewer’s sense of individual responsibility for advancing gender equality.
 
-<br>
+
+
 [Back to Domain Landscape](/landscape)
