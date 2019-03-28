@@ -3,13 +3,11 @@
 ## What it is from a strategic foresight perspective
 Mixed reality includes virtual, augmented, and extended reality technologies by which users may experience embodiment, immersion, multi or full sensory experience, and avatar interaction. In particular, our augmented reality tech is focused on head-mount and hand-set approaches, and both augmented and virtual reality includes goals to integrate with browsing and social experiences.
 
-## What Mozilla sees as long-term possibility here
 Our Mixed Reality program aims to create the premier agents for the immersive web. This year is projected to see millions of VR headsets in consumers’ homes in monthly active usage; billions of mobile phones  capable of experiencing AR content from museums, advertisers, and educators; and all major industries transitioning from pilot programs to early rollouts of standalone AR headsets. Mozilla is positioned to build on its industry-leading position as the driver of the Web on these devices to build out our relationships with users and enterprises.  We see a long-term opportunity to guide the way WebXR is built, in collaboration with users and creators.
 
-## Here-to-there story in one sentence
 Mixed reality - virtual, augmented, and extended - is taking us to the immersive web. The immersive web will always need to support 2D content as a first class citizen, not merely as legacy content. Perhaps not “big blocks of 2D” but the option to see that and the ability to mix “small blocks of 2D” with 3D .
 
-## What are our research questions?
+## Research Questions:
 1. What is the 3D Web? What does it look like?
 2. What does a possible future look like in which screens virtually disappear?
 3. What will it take for us to get to "normal" mixed reality experiences, in which the average consumer might participate?
@@ -27,6 +25,9 @@ Mixed reality - virtual, augmented, and extended - is taking us to the immersive
 <br>Advances in 3D Audio could drastically change the realism with which we experience Mixed and Virtual Reality.
 * [Uturn](www.uturnvr.com)
 <br>Uturn is a cinematic virtual reality (CVR) film that a Stanford study in 2018 found to increase viewer’s sense of individual responsibility for advancing gender equality.
+
+
+## Have ideas about the future of mixed reality, our research questions, or any of the above? Reach out to us!
 
 
 
