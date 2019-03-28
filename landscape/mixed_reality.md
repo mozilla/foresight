@@ -19,7 +19,7 @@ Mixed reality - virtual, augmented, and extended - is taking us to the immersive
 2. What does a possible future look like in which screens virtually disappear?
 3. What will it take for us to get to "normal" mixed reality experiences, in which the average consumer might participate?
 
-### More Reading about Mixed Reality at Mozilla
+## Read More about Mixed Reality at Mozilla
 * [Introduction to Mixed Reality and VR at Mozilla](https://research.mozilla.org/mixed-reality/) - A blog covering Mozilla’s approach to mixed reality and VR.
 * [Mixed Reality for the Open Web at Mozilla](https://mixedreality.mozilla.org/) - Learn more about Mozilla’s mixed reality for the open web program and related projects like Firefox Reality, our VR browser.
 * [Hubs by Mozilla](https://hubs.mozilla.com/) - Try out Hubs, our online social VR environment for creators and users.
