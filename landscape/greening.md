@@ -4,7 +4,7 @@
 
 ## Signals of the Future
 * [Key technologies to accelerate the ICT Green evolution](https://arxiv.org/abs/1903.09627v1)
-Advances in specific technologies will help the Information and Communication Technology sector evolve in green spaces including advances in: semiconductor manufacturing, optical technologies, and mathematics for green practices.
+<br>Advances in specific technologies will help the Information and Communication Technology sector evolve in green spaces including advances in: semiconductor manufacturing, optical technologies, and mathematics for green practices.
 
 ## Research Questions
 1. Help us identify research questions about greening the web!
