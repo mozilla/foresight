@@ -8,11 +8,11 @@ By prioritizing diversity and inclusion centrally in Mozilla programs and initia
 
 ## Signals of the Future
 * [EmpowHER](https://www.mindglowinc.com/)
-A project that came out of Mozilla’s XR Studio 2018, seeks to empower women through self-defense training.
+<br>A project that came out of Mozilla’s XR Studio 2018, seeks to empower women through self-defense training.
 * [The Orkney Cloud Project](orkneycloud.org) 
-Mozilla Research Grant funded project demonstrating how a community-led approach could work to providing data services at the edge. 
+<br>Mozilla Research Grant funded project demonstrating how a community-led approach could work to providing data services at the edge. 
 * [Adaptive Xbox controller](https://news.microsoft.com/stories/xbox-adaptive-controller/)
-Microsoft announces its release in May 2018, making gaming more accessible for people with all different types of disabilities. 
+<br>Microsoft announces its release in May 2018, making gaming more accessible for people with all different types of disabilities. 
 
 ## Research Questions
 1. How can Mozilla incorporate inclusive design at all levels of the product development life cycle? 
