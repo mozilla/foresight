@@ -15,19 +15,18 @@ Mozilla serves as a founding member of the Alliance for Open Media who recognize
 Support developers and creators with efficient tools that ensure speed and safety and royalty-free technology. Increase accessibility with cross-platform enablement. Address the potential threats to current web tech while also expanding this scope to nascent web technologies and platforms and enabling other research domains within Mozilla.
 
 ## Signals of the Future
-* [Hubs LivingRoom](https://sites.google.com/ciid.dk/finalciidformozillamr)
-<br>One of six final experience concepts conceived by 12 students from Copenhagen Institute of Interaction Design over a two-week period, demonstrating the importance of shared space and experience in VR. 
-* [3D Audio](https://spectrum.ieee.org/consumer-electronics/audiovideo/vr-for-your-ears-dynamic-3d-audio-is-coming-soon)
-<br>Advances in 3D Audio could drastically change the realism with which we experience Mixed and Virtual Reality.
-* [Uturn](www.uturnvr.com)
-<br>Uturn is a cinematic virtual reality (CVR) film that a Stanford study in 2018 found to increase viewer’s sense of individual responsibility for advancing gender equality.
+* [Microsoft: 70 percent of all security bugs are memory safety issues](https://www.zdnet.com/article/microsoft-70-percent-of-all-security-bugs-are-memory-safety-issues/) 
+<br>Around 70 percent of vulnerabilities in Microsoft products are memory safety issues, primarily because Windows has been written mostly in C and C++, two "memory-unsafe" programming languages. Rust can serve as a safer alternative.  
+* [Epic Games Zen Garden Demo](https://s3.amazonaws.com/mozilla-games/ZenGarden/EpicZenGarden.html) 
+<br>A use case of using WebAssembly to run a program in a browser rather than as an application, implies future web impacts of the capability. 
 
 ## Research Questions
-1. What is the 3D Web? What does it look like?
-2. What does a possible future look like in which screens virtually disappear?
-3. What will it take for us to get to "normal" mixed reality experiences, in which the average consumer might participate?
+1. How can we better understand and support developers wanting to use WASM for a variety of use cases near and long term?
+2. How can we use open technologies to better support our mission and a healthy internet?
+3. Can we better understand open web technologies from a user first perspective? What is this view?
 
-## Read More about Mixed Reality at Mozilla
+
+## Read More about Open Web Technologies at Mozilla
 * [Introduction to Mixed Reality and VR at Mozilla](https://research.mozilla.org/mixed-reality/) - A blog covering Mozilla’s approach to mixed reality and VR.
 * [Mixed Reality for the Open Web at Mozilla](https://mixedreality.mozilla.org/) - Learn more about Mozilla’s mixed reality for the open web program and related projects like Firefox Reality, our VR browser.
 * [Hubs by Mozilla](https://hubs.mozilla.com/) - Try out Hubs, our online social VR environment for creators and users.
