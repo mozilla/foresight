@@ -1,6 +1,6 @@
 # Greening the Web
 
-“Green the web” is the process by which we work to reduce environmental impact from the internet and related technologies like data centers. Although emerging technologies like decentralized protocols and artificial intelligence, may offer advancements in how we interact with life online, it is critical that carbon emissions and environmental risks be considered as these systems evolve.
+“Green the web” is the process by which we work to reduce environmental impact from the internet and related technologies like data centers. Although emerging technologies like decentralized protocols and artificial intelligence may offer advancements in how we interact with life online, it is critical that carbon emissions and environmental risks be considered as these systems evolve.
 
 ## Signals of the Future
 * [Key technologies to accelerate the ICT Green evolution](https://arxiv.org/abs/1903.09627v1)
