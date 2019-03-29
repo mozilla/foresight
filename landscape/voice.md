@@ -15,14 +15,14 @@ Mastercard released a “sonic logo” demonstrating how signature sounds are ev
 2. How might we continue to support an open and innovative web culture while corporations amass voice data for themselves?        
 3. How can we protect users’ sensitive voice data throughout the full lifecycle of a voice-based technology? 
 
-## Read More about Mixed Reality at Mozilla
+## Read More about Voice at Mozilla
 * [Common Voice](https://blog.mozilla.org/blog/2017/07/28/machine-learning-speech-recognition/) - Mozilla's open source initiative to crowd source voice data and teach machines how real people speak.
 * [Speech and Machine Learning](https://research.mozilla.org/machine-learning/) - Learn more about Mozilla's machine learning and speech projects.
 
 
 
 
-### Have thoughts, questions, concerns about the future of mixed reality? Reach out to us!
+### Have thoughts, questions, concerns about the future of voice? Reach out to us!
 
 
 
