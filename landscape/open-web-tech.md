@@ -34,7 +34,7 @@ Support developers and creators with efficient tools that ensure speed and safet
 
 
 
-### Have thoughts, questions, concerns about the future of mixed reality? Reach out to us!
+### Have thoughts, questions, concerns about the future of open web technologies? Reach out to us!
 
 
 
