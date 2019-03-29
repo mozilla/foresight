@@ -1,6 +1,6 @@
 # Decentralized [Technologies]
 
-Any technology with the ability to disrupt centralized authorities and bring more agency to the edges--individuals and communities--could qualify as a decentralization technology. We include both blockchain and non-blockchain applications that de-center current centralized power as well as code. For example our smart home efforts which enable local control of connected devices has a strong near-term decentralization component. 
+Any technology with the ability to disrupt centralized authorities and bring more agency to the edges--individuals and communities--is a decentralized technology. We include both blockchain and non-blockchain applications that de-center current centralized power as well as code. For example our smart home efforts which enable local control of connected devices has a strong near-term decentralization component. 
 
 We see the possibility for enhanced user agency and privacy through products, platforms, and services that reimagine where data is stored and how it is exchanged with decentralized and distributed network architectures. Ultimately, these architectures allow us to imagine a future in which some activities currently conducted on “the internet” move to more specialized, more secure, and potentially community-controlled alternatives where appropriate. As connected devices in the home gather more behavioral biometrics, forging paths for that data to live in the home rather than on commercial servers is an important aspect. 
 
