@@ -4,7 +4,16 @@ Any technology with the ability to disrupt centralized authorities and bring mor
 
 We see the possibility for enhanced user agency and privacy through products, platforms, and services that reimagine where data is stored and how it is exchanged with decentralized and distributed network architectures. Ultimately, these architectures allow us to imagine a future in which some activities currently conducted on “the internet” move to more specialized, more secure, and potentially community-controlled alternatives where appropriate. As connected devices in the home gather more behavioral biometrics, forging paths for that data to live in the home rather than on commercial servers is an important aspect. 
 
-To support decentralized technologies we can build experimental products for early adopter audiences in smart homes, engage in low level enablement to bring together value-aligned developers and creators in the community, and provide a frame for experimentation in P2P architectures. No single stakeholder holds all the right answers to address user’s evolving needs, and we believe that only by experimentation can we meet those needs safely. 
+To support decentralized technologies we can build experimental products for early adopter audiences in smart homes, engage in low level enablement to bring together value-aligned developers and creators in the community, and provide a frame for experimentation in P2P architectures. No single stakeholder holds all the right answers to address user’s evolving needs, and we believe that only by experimentation can we meet those needs safely.
+
+## Research Questions
+1. What experiences in the current centralized models are most harmful or prohibitive to individual's online lives?
+2. How might we enable creators to monetize their efforts on the web while discouraging piracy and fraud?
+3. How might we create environments where users have freedom of expression while also feeling safe and secure?
+
+## Read More about decentralized technologies at Mozilla
+* [Introducing the Dweb](https://hacks.mozilla.org/2018/07/introducing-the-d-web/) - A primer into Dweb and distinctions of architectures by Dietrich Ayala.
+* [Mozilla Project Things](https://iot.mozilla.org/) - Learn more about how we are helping move toward decentralized IoT for your Smart Home!
 
 ## Signals of the Future
 * [Blockstack](https://blockstack.org/)
@@ -14,15 +23,7 @@ To support decentralized technologies we can build experimental products for ear
 * [Coral Project](https://coralproject.net/) 
 <br>Coral is building a system that discourages abuse and enables productive dialog online by bringing journalists and communities closer together through open-source tools and strategies.
 
-## Research Questions
-1. What experiences in the current centralized models are most harmful or prohibitive to individual's online lives?
-2. How might we enable creators to monetize their efforts on the web while discouraging piracy and fraud?
-3. How might we create environments where users have freedom of expression while also feeling safe and secure?
 
-
-## Read More about decentralized technologies at Mozilla
-* [Introducing the Dweb](https://hacks.mozilla.org/2018/07/introducing-the-d-web/) - A primer into Dweb and distinctions of architectures by Dietrich Ayala.
-* [Mozilla Project Things](https://iot.mozilla.org/) - Learn more about how we are helping move toward decentralized IoT for your Smart Home!
 
 ### Have thoughts, questions, concerns about the future of decentralized technologies? Reach out to us!
 
