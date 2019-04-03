@@ -6,16 +6,15 @@ Our Mixed Reality program aims to create the premier agents for the immersive we
 
 Mixed reality - virtual, augmented, and extended - is taking us to the immersive web. The immersive web will always need to support 2D content as a first class citizen, not merely as legacy content. Perhaps not “big blocks of 2D” but the option to see that and the ability to mix “small blocks of 2D” with 3D .
 
+## Research Questions
+1. What is the 3D Web? What does it look like?
+2. What does a possible future look like in which screens virtually disappear?
+3. What will it take for us to get to "normal" mixed reality experiences, in which the average consumer might participate?
 
 ## Read More about Mixed Reality at Mozilla
 * [Introduction to Mixed Reality and VR at Mozilla](https://research.mozilla.org/mixed-reality/) - A blog covering Mozilla’s approach to mixed reality and VR.
 * [Mixed Reality for the Open Web at Mozilla](https://mixedreality.mozilla.org/) - Learn more about Mozilla’s mixed reality for the open web program and related projects like Firefox Reality, our VR browser.
 * [Hubs by Mozilla](https://hubs.mozilla.com/) - Try out Hubs, our online social VR environment for creators and users.
-
-## Research Questions
-1. What is the 3D Web? What does it look like?
-2. What does a possible future look like in which screens virtually disappear?
-3. What will it take for us to get to "normal" mixed reality experiences, in which the average consumer might participate?
 
 ## Signals of the Future
 * [Hubs LivingRoom](https://sites.google.com/ciid.dk/finalciidformozillamr)
