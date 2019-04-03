@@ -14,23 +14,22 @@ Mozilla serves as a founding member of the Alliance for Open Media who recognize
 
 Support developers and creators with efficient tools that ensure speed and safety and royalty-free technology. Increase accessibility with cross-platform enablement. Address the potential threats to current web tech while also expanding this scope to nascent web technologies and platforms and enabling other research domains within Mozilla.
 
-## Signals of the Future
-* [Microsoft: 70 percent of all security bugs are memory safety issues](https://www.zdnet.com/article/microsoft-70-percent-of-all-security-bugs-are-memory-safety-issues/) 
-<br>Around 70 percent of vulnerabilities in Microsoft products are memory safety issues, primarily because Windows has been written mostly in C and C++, two "memory-unsafe" programming languages. Rust can serve as a safer alternative.  
-* [Epic Games Zen Garden Demo](https://s3.amazonaws.com/mozilla-games/ZenGarden/EpicZenGarden.html) 
-<br>A use case of using WebAssembly to run a program in a browser rather than as an application, implies future web impacts of the capability. 
-
 ## Research Questions
 1. How can we better understand and support developers wanting to use WASM for a variety of use cases near and long term?
 2. How can we use open technologies to better support our mission and a healthy internet?
 3. Can we better understand open web technologies from a user first perspective? What is this view?
-
 
 ## Read More about Open Web Technologies at Mozilla
 * [A cartoon intro to WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/) - A series introduction using illustrations to explain WebAssembly by Lin Clark. 
 * [AV1 & Media Codecs](https://research.mozilla.org/av1-media-codecs/)  - Explanation and historical account of media codecs and AV1 providing a royalty option in this space. 
 * [An Invisible Tax on the Web: Video Codecs](https://blog.mozilla.org/blog/2018/07/11/royalty-free-web-video-codecs/) 
 * [AV1 and the Video Wars of 2027](https://blog.mozilla.org/blog/2018/08/20/av1-and-the-video-wars-of-2027/) - A future scenario by Judy McConnell that paints a dystopian outcome that stems from a company having a monopoly on codec patents.  
+
+## Signals of the Future
+* [Microsoft: 70 percent of all security bugs are memory safety issues](https://www.zdnet.com/article/microsoft-70-percent-of-all-security-bugs-are-memory-safety-issues/) 
+<br>Around 70 percent of vulnerabilities in Microsoft products are memory safety issues, primarily because Windows has been written mostly in C and C++, two "memory-unsafe" programming languages. Rust can serve as a safer alternative.  
+* [Epic Games Zen Garden Demo](https://s3.amazonaws.com/mozilla-games/ZenGarden/EpicZenGarden.html) 
+<br>A use case of using WebAssembly to run a program in a browser rather than as an application, implies future web impacts of the capability. 
 
 
 
