@@ -21,7 +21,7 @@ Mixed reality - virtual, augmented, and extended - is taking us to the immersive
 <br>One of six final experience concepts conceived by 12 students from Copenhagen Institute of Interaction Design over a two-week period, demonstrating the importance of shared space and experience in VR. 
 * [3D Audio](https://spectrum.ieee.org/consumer-electronics/audiovideo/vr-for-your-ears-dynamic-3d-audio-is-coming-soon)
 <br>Advances in 3D Audio could drastically change the realism with which we experience Mixed and Virtual Reality.
-* [Uturn](www.uturnvr.com)
+* [Uturn](http://www.uturnvr.com/index.php/vrseries/trailer/)
 <br>Uturn is a cinematic virtual reality (CVR) film that a Stanford study in 2018 found to increase viewer’s sense of individual responsibility for advancing gender equality.
 
 
