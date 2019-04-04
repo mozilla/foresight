@@ -16,7 +16,7 @@ In a hands-free future where voice becomes a primary mode of interaction, Mozill
 ## Signals of the Future
 * XR Privacy Co-Design Workshop <br>
 Two session workshop in which participants created scenarios to uncover the privacy implications of smart homes and co-designed corresponding controls. Six factors emerged from participants’ designs: data transparency and control, security, safety, usability and UX, system intelligence, and system modality. 
-* [Sonic Logo](https://drive.google.com/drive/folders/1i_YqxkWlSwQ6vqUrBVyE8XgjZI872ryQ) <br>
+* [Sonic Logo](https://qz.com/1547366/mastercard-has-a-new-sonic-logo/) <br>
 Mastercard released a “sonic logo” demonstrating how signature sounds are every bit as important as visuals, in establishing brand recognition and trust. 
 
 
