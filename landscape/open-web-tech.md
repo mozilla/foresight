@@ -28,7 +28,7 @@ In order to arrive at our ideal future, we intend to support developers and crea
 ## Signals of the Future
 * [Microsoft: 70 percent of all security bugs are memory safety issues](https://www.zdnet.com/article/microsoft-70-percent-of-all-security-bugs-are-memory-safety-issues/) 
 <br>Around 70 percent of vulnerabilities in Microsoft products are memory safety issues, primarily because Windows has been written mostly in C and C++, two "memory-unsafe" programming languages. Rust can serve as a safer alternative.  
-* [Epic Games Zen Garden Demo](https://s3.amazonaws.com/mozilla-games/ZenGarden/EpicZenGarden.html) 
+* Epic Games Zen Garden Demo
 <br>A use case of using WebAssembly to run a program in a browser rather than as an application, implies future web impacts of the capability. 
 
 
